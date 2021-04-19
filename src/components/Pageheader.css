@@ -1,0 +1,15 @@
+
+.main {
+    background-color: rgb(211, 207, 208);
+}
+.pageheader {
+    display: flex;
+    padding: 12px ;
+}
+.pageicon {
+    display: inline-block;
+    padding: 25px 20px 12px ;
+}
+.pagetitle {
+    padding: 12px;
+}
